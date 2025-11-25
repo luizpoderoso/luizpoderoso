@@ -9,23 +9,32 @@ I'm a Full-Stack Developer and Computer Science student from Brazil 🇧🇷. I'
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=react" alt="react" />
+  </a>
+  
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=ts" alt="typescript" />
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" />
   </a>
+  
   <a href="https://svelte.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original-wordmark.svg" alt="svelte" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=svelte" alt="svelte" />
   </a>
+  
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs"/>
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
+  
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql" />
+  </a>
+  
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=rust" alt="rust" />
   </a>
 </p>
 
