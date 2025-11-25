@@ -33,7 +33,7 @@ I'm a Full-Stack Developer and Computer Science student from Brazil 🇧🇷. I'
     <img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql" />
   </a>
   
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+  <a href="https://rust-lang.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=rust" alt="rust" />
   </a>
 </p>
