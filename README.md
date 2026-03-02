@@ -1,59 +1,86 @@
-# Hi there, I'm Luiz Poderoso! 👋
+<div align="center">
 
-I'm a Full-Stack Developer and Computer Science student from Brazil 🇧🇷. I'm passionate about building scalable and user-friendly web applications.
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   > whoami                                                   ║
+║                                                              ║
+║   Luiz Poderoso — Full Stack Developer                       ║
+║   Building dashboards & systems that actually work.          ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-- 🌱 I’m currently learning about system architecture and advanced database concepts.
-- 💬 Ask me about **React, Svelte, Node.js, and Full-Stack Development**.
-- 📫 How to reach me: [lpoderoso@icloud.com](mailto:lpoderoso@icloud.com)
-- 😄 Fun fact: I wrote my first line of code in C# when I was 9 years old!
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=react" alt="react" />
-  </a>
+---
+
+## `$ cat about.md`
+
+Hey! I'm **Luiz**, a CS student at **Universidade Federal de Sergipe (UFS)** and Full Stack Developer at **CN Digital Music**, where I design and build fullstack administrative panels and dashboards.
+
+I wrote my first line of code at **9 years old** — a text simulation game wrote in C#. Been coding seriously since 16, and the obsession never stopped.
+
+When I'm not at the keyboard: 📚 reading · 🌍 geopolitics & history · 🎌 anime · 🎬 horror movies · 🎮 RDR2 is my favorite game and I love management games too.
+
+---
+
+## `$ ls tech/`
+
+### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+### Frontend
+![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+### Backend
+![.NET](https://img.shields.io/badge/.NET_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![FastEndpoints](https://img.shields.io/badge/FastEndpoints-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### Database & Infra
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## `$ github --stats luizpoderoso`
+
+<div align="center">
   
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=ts" alt="typescript" />
-  </a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=70A5FD&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Dev+%40+CN+Digital+Music;SvelteKit+%2B+.NET+10+%2B+PostgreSQL;UFS+Computer+Science+Student)](https://git.io/typing-svg)
 
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" />
-  </a>
-  
-  <a href="https://svelte.dev" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=svelte" alt="svelte" />
-  </a>
-  
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs"/>
-  </a>
-  
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql" />
-  </a>
-  
-  <a href="https://rust-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=rust" alt="rust" />
-  </a>
-</p>
+</div>
 
-<h3>Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/luiz-poderoso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="SEU NOME" height="30" width="40" /></a>
-</p>
+<div align="center">
 
-<!--
-**luizpoderoso/luizpoderoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub Streak](https://streak-stats.demolab.com?user=luizpoderoso&theme=tokyonight&hide_border=true)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## `$ contact --list`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-luizpoderoso-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luizpoderoso)
+[![Instagram](https://img.shields.io/badge/Instagram-@luizpoderoso-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luizpoderoso)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+"The most revolutionary thing one can do is always to proclaim loudly what is happening."
+— Rosa Luxemburg
+```
+
+</div>
